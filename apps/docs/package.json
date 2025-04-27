@@ -28,7 +28,7 @@
     "@laxels/docusaurus-plugin-segment": "^1.0.6",
     "@mdx-js/react": "^3.0.1",
     "@plasmicapp/react-web": "^0.2.378",
-    "@plasmicpkgs/antd5": "^0.0.279",
+    "@plasmicpkgs/antd5": "^0.0.280",
     "@plasmicpkgs/plasmic-basic-components": "^0.0.230",
     "clsx": "^2.1.1",
     "lodash": "^4.17.21",
